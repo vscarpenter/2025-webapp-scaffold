@@ -1,0 +1,14 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-webapp-staging-authRole",
+      "UnauthRoleArn": "arn:aws:iam::ACCOUNT-ID:role/amplify-webapp-staging-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::ACCOUNT-ID:role/amplify-webapp-staging-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-webapp-staging-deployment-bucket",
+      "UnauthRoleName": "amplify-webapp-staging-unauthRole",
+      "StackName": "amplify-webapp-staging",
+      "StackId": "arn:aws:cloudformation:us-east-1:ACCOUNT-ID:stack/amplify-webapp-staging/STACK-ID"
+    }
+  }
+}
